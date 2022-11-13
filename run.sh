@@ -1,7 +1,5 @@
-#stow -D nvim -t $HOME
-#stow nvim -t $HOME
-#
-folders=("nvim" "alacritty")
+# Setting up the configuration
+folders=("nvim" "alacritty" "ideavim")
 stow -D -t $HOME nvim
 stow -t $HOME nvim
 
