@@ -5,6 +5,7 @@ let mapleader=" "
 
 "" Plugins -----
 set NERDTree
+set highlightedyank
 
 
 "" -- Suggested options --
