@@ -52,6 +52,8 @@ nnoremap <leader>e :NERDTreeToggle<CR>
 nnoremap <leader>sv <C-w>v
 nnoremap <leader>sh <C-w>s
 nnoremap <leader>sx :close<CR>
+nnoremap <C-h> <C-w><C-h>
+nnoremap <C-l> <C-w><C-l>
 
 " Tab Navigation
 nnoremap <leader>tn :tabn<CR>
