@@ -1,5 +1,5 @@
 # Setting up the configuration
-folders=("nvim" "alacritty" "ideavim")
+folders=("nvim" "alacritty" "ideavim" "tmux")
 
 for f in "${folders[@]}"
 do 
