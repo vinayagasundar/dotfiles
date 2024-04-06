@@ -46,6 +46,7 @@ map <leader>b <Action>(ToggleLineBreakpoint)
 map <leader>ne <Action>(GotoNextError)
 map <leader>rn <Action>(RenameElement)
 map <leader>gi <Action>(GotoImplementation)
+map <leader>ff <Action>(SearchEverywhere)
 
 " Window Navigation
 nnoremap <leader>e :NERDTreeToggle<CR>
@@ -58,6 +59,5 @@ nnoremap <C-l> <C-w><C-l>
 " Tab Navigation
 nnoremap <leader>tn :tabn<CR>
 nnoremap <leader>tp :tabp<CR>
-
 
 " Find more examples here: https://jb.gg/share-ideavimrc
