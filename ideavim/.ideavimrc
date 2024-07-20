@@ -48,6 +48,7 @@ map <leader>ne <Action>(GotoNextError)
 map <leader>rn <Action>(RenameElement)
 map <leader>gi <Action>(GotoImplementation)
 map <leader>ff <Action>(SearchEverywhere)
+map <leader>fu <Action>(FindUsages)
 
 " Window Navigation
 nnoremap <leader>e :NERDTreeToggle<CR>
