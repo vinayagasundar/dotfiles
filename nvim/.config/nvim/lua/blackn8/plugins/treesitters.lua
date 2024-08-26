@@ -24,6 +24,7 @@ treesitter.setup({
     "dockerfile",
     "gitignore",
     "kotlin",
+    "go"
   },
   -- auto install above language parsers
   auto_install = true,
